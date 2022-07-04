@@ -1,0 +1,35 @@
+markdownguide.org - Link página de guia para mark down
+
+O Git foi criado em 2005, para armazenar o código.
+O Software é feito de forma colaborativa, não realizada apenas por uma pessoa, então entendeu a necessidade de criar um sistema que criasse versões.
+Git e Github são diferentes.
+Benefícios de aprender sobre o Git:
+
+ 1 Controle de versão;
+ 2 Armazenamento na nuvem;
+ 3 Trabalho em equipe;
+ 4 Melhorar seu código;
+ 5 Reconhecimento;
+
+No módulo de introdução o Git aprendemos comandos básicos como por exemplo:
+
+Para Windowns
+ - cd
+ - dir
+ - mkdir
+ - del/rmdir
+ - Cls
+
+Nesse módulo foi abordado os seguintes temas:
+ - Instalação do Git
+ - Tópicos fundamentais para entender o funcionamento do Git
+ - Objetos internos do Gi
+ - Chave SSH e Token
+ - Iniciando o Git e criando um commit 
+ - Primeiro commit
+ - Adicionando um arquivo
+ - Ciclo de vida dos arquivos no git
+ - Trabalhando com o Github
+ - Como os conflitos acontecem no Github e como resolvê-los
+
+Por fim, desafio de criar um repositório utilizando o Github e Git - como pré-requisito para conclusão do Bootcamp DIO e Santander.
